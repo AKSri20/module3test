@@ -1,3 +1,3 @@
 This line added through master branch.
-from master branch.
-from feature.
+from master branch ,modifying existing for stash testing.
+Added for stash testing.
