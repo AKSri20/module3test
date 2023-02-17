@@ -1,3 +1,2 @@
 This line added through master branch.
 from master branch.
-from feature.
