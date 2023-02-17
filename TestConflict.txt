@@ -1,1 +1,2 @@
 This line added through master branch.
+Second line added from master branch.
